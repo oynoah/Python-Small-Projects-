@@ -36,8 +36,6 @@ def convert_temp(input_scale,output_scale,value):
 
 
 # Example usage
-converted_value = convert_temp(value=0, 
-                               input_scale='Celsius', 
-                               output_scale='Kelvin')
-print(f"Converted Value is equal to {converted_value}")
-        
+if __name__ == "__main__":
+    converted_value = convert_temp(value=0, input_scale='Celsius', output_scale='Kelvin')
+    print(f"Converted Value is equal to {converted_value}")
