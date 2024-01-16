@@ -21,7 +21,7 @@ This Python script converts temperatures between Celsius, Kelvin, and Fahrenheit
   
 - If the result is 0, the number is even, and the function returns the string "`{number_type} Even`". If there is a remainder, the number is odd, and the function returns "`{number_type} Odd`".
 
-## 2. FizzBuzz 
+## 3. FizzBuzz 
 
 ### Functionality
 
