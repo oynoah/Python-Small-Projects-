@@ -30,4 +30,13 @@
 
 - Returns a tuple containing `output_list` and the `counts` dictionary.
 
+## 4. Leap Years
+
+### Functionality
+- The program starts with a helper function to check if a year is a leap year or not
+
+- The following function iterates through a range of years given as argument an then counts each instance of leap and not leap year and stores them in a dictionary. 
+
+- Returns a tuple containing the leap year information and the count dictionary.
+
 
