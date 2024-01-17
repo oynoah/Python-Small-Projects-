@@ -2,7 +2,6 @@
 
 
 ## 1. Temperature Converter
-This Python script converts temperatures between Celsius, Kelvin, and Fahrenheit.
 
 ### Functionality
 - Supports conversion between all three scales(Celsius, Fahrenheit & Kelvin).
